@@ -1,1 +1,1 @@
-alert ("This site is maintained by aezlo")
+alert("This site is maintained by aezlo")
